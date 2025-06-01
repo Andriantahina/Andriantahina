@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andriantahina
 - 👀 I’m interested in data science, desktop and web programing
-- 🌱 I’m currently learning Python and Codeigniter Framework
+- 🌱 I’m currently learning Laravel and DotNet Blazor tech
 - 📫 How to reach me send PM on andry dot rafilobera at gmail dot com
 
 <!---
